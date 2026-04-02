@@ -55,10 +55,9 @@ OrderMesh is engineered for speed, stability, and scale:
 ## 🎥 Product Demo
 
 > [!TIP]
-> This section is for a product walkthrough video. It demonstrates the seamless workflow from order creation to Postex export.
+> Catch OrderMesh in action! This Reel demonstrates the seamless workflow from order creation to Postex export.
 
-[//]: # (Insert YouTube/Vimeo/Loom Link Here)
-*(Link to video demo will be inserted here)*
+[![Watch the Reel](https://img.shields.io/badge/Watch%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DWAvtpCiEaq/)
 
 ---
 
