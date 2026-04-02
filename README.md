@@ -64,17 +64,25 @@ OrderMesh is engineered for speed, stability, and scale:
 
 ## 📸 Screenshots
 
-#### 1. Main Dashboard (Dark Mode)
-[//]: # (Screenshot of the main dashboard with statistics and order table)
-![Dashboard Screenshot](https://via.placeholder.com/1200x600/18181b/ffffff?text=OrderMesh+Main+Dashboard)
+#### 1. Main Dashboard (Premium Dark Mode)
 
-#### 2. Specialized Filters & Bulk Actions
-[//]: # (Screenshot showing the filter strip and bulk selection features)
-![Filters Screenshot](https://via.placeholder.com/1200x600/18181b/ffffff?text=OrderMesh+Smart+Filters)
+![Main Dashboard Dark](assets/Screenshot%202026-04-03%20021259.png)
 
-#### 3. Order Details & History
-[//]: # (Screenshot showing the modal with detailed customer and product information)
-![Order Details Screenshot](https://via.placeholder.com/1200x600/18181b/ffffff?text=OrderMesh+Detailed+View)
+#### 2. Main Dashboard (Sleek Light Mode)
+
+![Main Dashboard Light](assets/Screenshot%202026-04-03%20021116.png)
+
+#### 3. Intelligent Order Lifecycle Tracking
+
+![Order Details](assets/Screenshot%202026-04-03%20021207.png)
+
+#### 4. Specialized Filters & Bulk Actions
+
+![Bulk Actions](assets/Screenshot%202026-04-03%20021145.png)
+
+#### 5. User-Friendly Order Creation
+
+![New Order Form](assets/Screenshot%202026-04-03%20021153.png)
 
 ---
 
@@ -82,9 +90,11 @@ OrderMesh is engineered for speed, stability, and scale:
 
 Interested in a custom deployment or licensing this product for your business?
 
-- **Contact Me**: [[Your Email/Link]]
-- **Website**: [[Your Portfolio Link]]
-- **Schedule a Call**: [[Calendly/Link]]
+<p align="center">
+  <img src="https://res.cloudinary.com/ddnvx3zrg/image/upload/v1775148147/qrcode_328118385_82039e777df7f3e71f3f622630e881b5_ywghko.png" width="10%" alt="QR Code 1" />
+  <img src="https://res.cloudinary.com/ddnvx3zrg/image/upload/v1775148147/qrcode_328119270_c6343e6fff7437353c307c7541a7fe76_eumooa.png" width="10%" alt="QR Code 2" />
+  <img src="https://res.cloudinary.com/ddnvx3zrg/image/upload/v1775148147/qrcode_328119564_0f419835cf9b14e516a9c17d12ba958b_zkzqmo.png" width="10%" alt="QR Code 3" />
+</p>
 
 ---
 
